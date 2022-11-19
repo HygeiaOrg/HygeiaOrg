@@ -1,6 +1,6 @@
 # HygeiaOrg / readme.md
+<p align="center"> <img scr="" /> </p>
 
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
 
