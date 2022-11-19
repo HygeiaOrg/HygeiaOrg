@@ -1,4 +1,6 @@
-<img width="664" alt="London_BG_Chapter" src="https://user-images.githubusercontent.com/54794136/202851171-03fb01c9-5b93-407d-9a67-f643712ff6b0.png">
+# HygeiaOrg / readme.md
+
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
 
@@ -7,6 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hygeiaorg" alt="hygeiaorg" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hygeiaorg" target="blank"><img src="https://img.shields.io/twitter/follow/hygeiaorg?logo=twitter&style=for-the-badge" alt="hygeiaorg" /></a> </p>
+
+<p align="right"> <a href="https://github.com/HygeiaOrg/JohnHartley-Profile/issues/2#issue-1456454877" /></a> </p>
 
 - 🔭 I’m currently working on [Lexica demand & capacity Model](https://github.com/Lexica-Healthcare-and-Life-Sciences/demand---capacity-model)
 
