@@ -1,14 +1,16 @@
 # HygeiaOrg / readme.md
-<p align="center"> <img scr="" /> </p>
+[![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hygeiaorg&label=Profile%20views&color=0e75b6&style=flat" alt="hygeiaorg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hygeiaorg" alt="hygeiaorg" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hygeiaorg" target="blank"><img src="https://img.shields.io/twitter/follow/hygeiaorg?logo=twitter&style=for-the-badge" alt="hygeiaorg" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_images/1338969922232205312/lgP6mQGt_400x400.jpg">
 
 <p align="right"> <a href="https://github.com/HygeiaOrg/JohnHartley-Profile/issues/2#issue-1456454877" /></a> </p>
 
