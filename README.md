@@ -1,5 +1,5 @@
+<img width="664" alt="London_BG_Chapter" src="https://user-images.githubusercontent.com/54794136/202851171-03fb01c9-5b93-407d-9a67-f643712ff6b0.png">
 <h1 align="center">Hi 👋, I'm John</h1>
-[![MasterHead]()
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hygeiaorg&label=Profile%20views&color=0e75b6&style=flat" alt="hygeiaorg" /> </p>
