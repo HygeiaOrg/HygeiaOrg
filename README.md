@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **population health management and ML**
 
-- 📫 How to reach me **MrJohnHartley@Gamil.com**
+- 📫 How to reach me **MrJohnHartley@Gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrjohnhartley/](https://www.linkedin.com/in/mrjohnhartley/)
 
