@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Lexica demand & capacity Model](https://github.com/Lexica-Healthcare-and-Life-Sciences/demand---capacity-model)
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Ray**
 
 - 👯 I’m looking to collaborate on **Ai4Good type projects**
 
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **population health management and ML**
 
-- 📫 How to reach me **John.Hartley@lexica.co.uk**
+- 📫 How to reach me **MrJohnHartley@Gamil.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrjohnhartley/](https://www.linkedin.com/in/mrjohnhartley/)
 
