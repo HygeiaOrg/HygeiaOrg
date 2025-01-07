@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/HygeiaOrg/HygeiaOrg/blob/e5e36d632e7feb15c3b7f44030e239e35941aeaf/media/MIAL%20Healthcare%20logo%20final-01.svg)
-
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
 
@@ -13,13 +11,13 @@
 
 <p align="right"> <a href="https://github.com/HygeiaOrg/JohnHartley-Profile/issues/2#issue-1456454877" /></a> </p>
 
-- 🔭 I’m currently working on [Lexica demand & capacity Model](https://github.com/Lexica-Healthcare-and-Life-Sciences/demand---capacity-model)
+- 🔭 I’m currently building [RAG medical agent](https://mial.healthcare/)
 
-- 🌱 I’m currently learning **Ray**
+- 🌱 I’m currently learning **Vertex AI Agent Builder**
 
 - 👯 I’m looking to collaborate on **Ai4Good type projects**
 
-- 🤝 I’m looking for help with **azure pipeline deployment**
+- 🤝 I’m looking for help with **RA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HygeiaOrg](https://github.com/HygeiaOrg)
 
@@ -45,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hygeiaorg&show_icons=true&locale=en" alt="hygeiaorg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hygeiaorg&" alt="hygeiaorg" /></p>
+
