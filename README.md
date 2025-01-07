@@ -1,4 +1,4 @@
-![MasterHead](media/MIAL_banner.png)
+![MasterHead](https://github.com/HygeiaOrg/HygeiaOrg/blob/e5e36d632e7feb15c3b7f44030e239e35941aeaf/media/MIAL%20Healthcare%20logo%20final-01.svg)
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm passionate about applications that increase access to healthcare</h3>
