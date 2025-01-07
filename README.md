@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Ai4Good type projects**
 
-- 🤝 I’m looking for help with **RA**
+- 🤝 I’m looking for help with **Developing Medical Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HygeiaOrg](https://github.com/HygeiaOrg)
 
