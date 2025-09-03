@@ -11,7 +11,7 @@
 
 <p align="right"> <a href="https://github.com/HygeiaOrg/JohnHartley-Profile/issues/2#issue-1456454877" /></a> </p>
 
-- 🔭 I’m currently building [A sales agent that searches the UK's Care Quality Commission] () and [Agentic workflows for sending invoices to healthcode](https://mial.healthcare/))  
+- 🔭 I’m currently building [A sales agent that searches the UK's Care Quality Commission] (https://github.com/HygeiaOrg/CQC_Sales_Agent.git) and [Agentic workflows for sending invoices to healthcode](https://mial.healthcare/))  
 
 - 🌱 I’m currently learning **Vertex AI ADK Agent Builder**
 
