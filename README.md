@@ -11,20 +11,21 @@
 
 <p align="right"> <a href="https://github.com/HygeiaOrg/JohnHartley-Profile/issues/2#issue-1456454877" /></a> </p>
 
-- 🔭 I’m currently building [A sales agent that searches the UK's Care Quality Commission] (https://github.com/HygeiaOrg/CQC_Sales_Agent.git) and [Agentic workflows for sending invoices to healthcode](https://mial.healthcare/))  
-
+- 🔭 I’m currently building a sales agent web app that searches the UK's Care Quality Commission registry of healthcare providers and returns sales leads
+  - 👨‍💻 All of my projects are available at [https://github.com/HygeiaOrg](https://github.com/HygeiaOrg)
+  
 - 🌱 I’m currently learning **Vertex AI ADK Agent Builder**
 
-- 👯 I’m looking to collaborate on **Ai4Good type projects**
+- 👯 I’m looking to collaborate on **Ai4Good and healthcare projects**
 
 - 🤝 I’m looking for help with **Developing Medical Agents**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HygeiaOrg](https://github.com/HygeiaOrg)
-
-- 💬 Ask me about **population health management and ML**
+- 💬 Ask me how agentic workflows can reduce the burden of medical administration  **Medical Agents**
 
 - 📫 How to reach me **MrJohnHartley@Gmail.com**
 
+- 📫 How to employ me [https://upwork.com/freelancers](https://www.upwork.com/freelancers/~01e87fda1ee8b0f578?mp_source=share)
+- 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrjohnhartley/](https://www.linkedin.com/in/mrjohnhartley/)
 
 - ⚡ Fun fact **I'm half Hawaiin, half Geordie!**
