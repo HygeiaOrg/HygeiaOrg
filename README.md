@@ -25,7 +25,7 @@
 - 📫 How to reach me **MrJohnHartley@Gmail.com**
 
 - 📫 How to employ me [https://upwork.com/freelancers](https://www.upwork.com/freelancers/~01e87fda1ee8b0f578?mp_source=share)
-- 
+  
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrjohnhartley/](https://www.linkedin.com/in/mrjohnhartley/)
 
 - ⚡ Fun fact **I'm half Hawaiin, half Geordie!**
